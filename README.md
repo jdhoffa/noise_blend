@@ -1,2 +1,5 @@
 # noise_blend
-automated graphics with traktor input
+automated graphics from audio input
+
+## content
+**./blender/**: blender scripts <br> 
